@@ -525,7 +525,7 @@ var _cssJsDefault = parcelHelpers.interopDefault(_cssJs);
 const demo = document.querySelector('#demo');
 const demo2 = document.querySelector('#demo2');
 let n = 1;
-time = 100;
+let time = 100;
 let id;
 const player = {
     init: ()=>{
@@ -535,6 +535,7 @@ const player = {
         player.bindEvents();
     },
     bindEvents: ()=>{
+        //执行触发器，player.pause()是执行方法pause，相当于调用了一个方法，而不会执行计时器
         document.querySelector('#btnPause').onclick = player.pause;
         document.querySelector('#btnPlay').onclick = ()=>{
             window.clearInterval(id); //避免动画叠加

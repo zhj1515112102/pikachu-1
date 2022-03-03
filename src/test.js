@@ -3,7 +3,7 @@ import string from './css.js'
 const demo = document.querySelector('#demo')
 const demo2 = document.querySelector('#demo2')
 let n = 1
-time=100;
+let time=100;
 let id;
 
 const player = {
