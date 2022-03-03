@@ -1,0 +1,22 @@
+21
+56C:\Users\zhj1998\Desktop\jirengu\pikachu-2\src\style.css132906803628915786 0
+47C:\Users\zhj1998\Desktop\jirengu\pikachu-2\dist132907059517779193 1
+46C:\Users\zhj1998\Desktop\jirengu\pikachu-2\src132907043313319416 1
+54C:\Users\zhj1998\Desktop\jirengu\pikachu-2\src\main.js132905111507210000 0
+53C:\Users\zhj1998\Desktop\jirengu\pikachu-2\src\css.js132906833534253638 0
+70C:\Users\zhj1998\Desktop\jirengu\pikachu-2\dist\index.2cdaf7bc.css.map132906803634017696 0
+57C:\Users\zhj1998\Desktop\jirengu\pikachu-2\src\index.html132906805160336703 0
+56C:\Users\zhj1998\Desktop\jirengu\pikachu-2\src\test.html132906843402747363 0
+58C:\Users\zhj1998\Desktop\jirengu\pikachu-2\dist\index.html132906805334871996 0
+54C:\Users\zhj1998\Desktop\jirengu\pikachu-2\src\test.js132907059739244668 0
+55C:\Users\zhj1998\Desktop\jirengu\pikachu-2\src\test2.js132907043343160761 0
+66C:\Users\zhj1998\Desktop\jirengu\pikachu-2\dist\index.2cdaf7bc.css132906803633903608 0
+65C:\Users\zhj1998\Desktop\jirengu\pikachu-2\dist\index.de158e3a.js132905800254681707 0
+69C:\Users\zhj1998\Desktop\jirengu\pikachu-2\dist\index.de158e3a.js.map132905800254801379 0
+69C:\Users\zhj1998\Desktop\jirengu\pikachu-2\dist\pikachu-2.59712999.js132905113582924798 0
+73C:\Users\zhj1998\Desktop\jirengu\pikachu-2\dist\pikachu-2.59712999.js.map132905113582954714 0
+64C:\Users\zhj1998\Desktop\jirengu\pikachu-2\dist\test.609f6d2c.js132907059517719689 0
+68C:\Users\zhj1998\Desktop\jirengu\pikachu-2\dist\test.609f6d2c.js.map132907059517754401 0
+64C:\Users\zhj1998\Desktop\jirengu\pikachu-2\dist\test.c860f2e8.js132906828398635635 0
+68C:\Users\zhj1998\Desktop\jirengu\pikachu-2\dist\test.c860f2e8.js.map132906828398635635 0
+57C:\Users\zhj1998\Desktop\jirengu\pikachu-2\dist\test.html132907057333299838 0
